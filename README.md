@@ -68,6 +68,14 @@ To run the system:
 2. Open your terminal or command prompt  
 3. Navigate to the folder containing the file  
 4. Run the command:
+
+---
+
+### 6. Maintenance & Future Improvements
+- Save student records to a file or database
+- Add login authentication for security
+- Develop a GUI for better usability
 ```bash
+
 python student_management_system.py
 
