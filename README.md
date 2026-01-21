@@ -13,7 +13,8 @@ Department:Computer Science
 The **Student Management System (SMS)** is a Python console application designed to manage student records efficiently. The system allows users to:  
 - Add new students  
 - View all students  
-- Update student information  
+- Update student information
+- Find (search) a student by matric number 
 - Delete student records  
 
 This project also demonstrates the **complete Software Development Life Cycle (SDLC)** using consistent function names and clear design.
@@ -38,7 +39,8 @@ This project also demonstrates the **complete Software Development Life Cycle (S
 - All students are stored in a **list** called `students`.  
 - Main functions of the system:
   - `add_student()` → Add a new student  
-  - `view_students()` → View all students  
+  - `view_students()` → View all students
+  - `find_student()` → Find a student by matric number
   - `update_student()` → Update an existing student  
   - `delete_student()` → Delete a student  
   - `main()` → Menu-driven controller  
@@ -55,7 +57,8 @@ This project also demonstrates the **complete Software Development Life Cycle (S
 ### 4. Testing
 - Tested all functionalities:
   - Adding students  
-  - Viewing students  
+  - Viewing students
+  - Finding students
   - Updating records  
   - Deleting records  
 - Confirmed that all features work as expected without errors  
